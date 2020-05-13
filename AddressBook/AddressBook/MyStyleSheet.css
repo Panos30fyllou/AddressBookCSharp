@@ -1,0 +1,82 @@
+﻿body {
+    background-color: cadetblue;
+    font-family: Comic Sans MS;
+    height: 494px;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    color: white;
+    text-align:center;
+}
+
+button {
+    background-color: cadetblue;
+    border-radius: 2px;
+    border-color: aquamarine;
+    border-width: 5px;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    }
+
+button:hover {
+    background-color:aquamarine;
+}
+
+.mybtn {
+    background-color: cadetblue;
+    border-radius: 2px;
+    border-color: aquamarine;
+    border-width: 5px;
+    padding: 10px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+}
+
+.mybtn:hover {
+    background-color: aquamarine;
+}
+
+.txtbox{
+    width: 100%
+}
+#bd{
+    width:100%;
+}
+
+input {
+    font-family: Comic Sans MS;
+}
+
+div > button{
+    margin-right: 5px;
+}
+
+
+#GridView1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#menutable {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 179px;
+
+    text-align:center;
+}
+
+#menutable td {
+    padding: 30px;
+}
